@@ -267,6 +267,7 @@ h1 {
 }
 
 .player-info {
+  display: none;
   margin-bottom: 10px;
   font-style: italic;
 }
